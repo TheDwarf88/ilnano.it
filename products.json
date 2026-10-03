@@ -34,5 +34,41 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Best Mechanical Keyboards for Coding in 2024",
+    "slug": "best-mechanical-keyboards-for-coding",
+    "subtitle": "Boost your programming productivity and comfort with our expert picks for the ultimate developer keyboards.",
+    "intro_summary": "As a developer, your keyboard is your most important tool. Spending hours writing code, debugging, and executing terminal commands requires a reliable, comfortable, and responsive typing instrument. A great mechanical keyboard can significantly reduce finger fatigue, improve your typing accuracy, and even make the daily grind much more enjoyable through satisfying acoustics and tactile feedback. In this comprehensive guide, we have tested and analyzed the top mechanical keyboards specifically tailored for programmers and software engineers. Whether you prefer a premium heavy-duty aluminum chassis with customizable QMK/VIA firmware for endless shortcuts, or an ultra-slim wireless setup that you can easily toss into your backpack for coding on the go, our expert recommendations cover the absolute best options available on the market today to elevate your programming setup.",
+    "products": [
+      {
+        "name": "Keychron Q1 Pro",
+        "badge": "Top Pick",
+        "affiliate_url": "https://amzn.to/example_keychron",
+        "review": "The Keychron Q1 Pro is an absolute powerhouse for software developers who value build quality and customization. Featuring a fully CNC-machined aluminum body, it offers a remarkably solid and satisfying typing experience that dampens unwanted ping and hollow sounds. Out of the box, it supports hot-swappable switches, allowing you to easily swap out mechanical switches without any soldering required. Thanks to its robust QMK and VIA open-source firmware support, you can completely remap every single key, set up complex macros for your favorite IDE shortcuts, and configure multiple layers to streamline your coding workflow effortlessly. The wireless Bluetooth connectivity also allows for seamless switching between multiple machines.",
+        "pros": [
+          "Sturdy full-aluminum case construction",
+          "Fully customizable via QMK and VIA software",
+          "Hot-swappable PCB for easy switch changes"
+        ],
+        "cons": [
+          "Quite heavy and not ideal for frequent traveling"
+        ]
+      },
+      {
+        "name": "NuPhy Air75 V2",
+        "badge": "Best for Travel",
+        "affiliate_url": "https://amzn.to/example_nuphy",
+        "review": "If you are a digital nomad or a developer who loves working from coffee shops, co-working spaces, or the couch, the NuPhy Air75 V2 is your ultimate companion. This low-profile mechanical keyboard bridges the gap between the sleek portability of a laptop keyboard and the delightful tactility of a traditional mechanical board. It features ultra-thin keycaps and low-profile mechanical switches that deliver crisp, responsive actuation without straining your wrists. Despite its slim profile, it packs impressive battery life, versatile multi-device wireless connectivity, and gorgeous customizable RGB backlighting. It is the perfect balance of mobility, aesthetics, and typing performance for modern coders.",
+        "pros": [
+          "Ultra-slim and lightweight low-profile design",
+          "Excellent wireless latency and battery life",
+          "Modern aesthetic with vibrant RGB lighting"
+        ],
+        "cons": [
+          "Low-profile keycaps limit custom keycap replacement options"
+        ]
+      }
+    ]
   }
 ]
