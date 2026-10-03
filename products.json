@@ -1,41 +1,5 @@
 [
   {
-    "title": "Best Ergonomic Keyboards for Programmers",
-    "slug": "best-ergonomic-keyboards-for-programmers",
-    "subtitle": "Protect your wrists and boost your coding productivity with our top ergonomic keyboard picks.",
-    "intro_summary": "As a programmer, your keyboard is your most essential tool. Spending long hours typing lines of code, debugging complex systems, and writing documentation can take a heavy toll on your wrists, hands, and shoulders. Standard flat keyboards often force your body into unnatural postures, leading to fatigue, carpal tunnel syndrome, and repetitive strain injuries. That is why investing in a top-tier ergonomic keyboard is not just a luxury, but a vital health necessity for any serious software developer. Ergonomic keyboards are specifically designed to promote a more natural hand position, reduce muscle strain, and allow for comfortable, marathon coding sessions. In this comprehensive buying guide, we have tested and analyzed the absolute best ergonomic keyboards available on the market today. Whether you prefer a curved split design, integrated palm rests, or a wireless setup that seamlessly integrates with your development workstation, we have carefully selected the best options to keep you typing pain-free and efficiently for years to come.",
-    "products": [
-      {
-        "name": "Logitech Ergo K860",
-        "badge": "Top Pick",
-        "affiliate_url": "https://amzn.to/example1",
-        "review": "The Logitech Ergo K860 stands out as the ultimate choice for programmers who want a seamless transition from traditional layouts without sacrificing comfort. Its curved, split keyframe drastically reduces wrist bending and promotes a more relaxed posture. We were particularly impressed by the cushioned palm rest, which offers three layers of support including high-density foam and a durable, easy-to-clean top fabric layer. Typing feels remarkably smooth and quiet, making it ideal for open-plan offices or late-night coding sessions at home. Furthermore, the multi-device connectivity allows you to switch effortlessly between your main development machine, laptop, and tablet with a single touch.",
-        "pros": [
-          "Curved split keyframe improves wrist posture",
-          "Excellent three-layer cushioned palm rest",
-          "Seamless multi-device Bluetooth and USB connectivity"
-        ],
-        "cons": [
-          "Takes a few days to get used to the split layout"
-        ]
-      },
-      {
-        "name": "Microsoft Sculpt Ergonomic Desktop",
-        "badge": "Best Value",
-        "affiliate_url": "https://amzn.to/example2",
-        "review": "The Microsoft Sculpt Ergonomic Desktop is a legendary option in the developer community, praised for its distinctive dome-shaped design and separated architecture. By positioning your wrists in a natural, elevated angle, it effectively prevents the pronation that causes long-term strain. The detached number pad gives you the flexibility to set up your mouse closer to your main keyboard, reducing awkward shoulder stretching and improving overall desk ergonomics. The included cushioned palm rest provides continuous support, while the scooped keys match the natural curvature of your fingertips for rapid, accurate keystrokes. It is a reliable, time-tested solution for programmers looking to upgrade their workstation health.",
-        "pros": [
-          "Distinctive dome design promotes neutral wrist angles",
-          "Separated number pad for flexible desk configuration",
-          "Natural arc key arrangement fits fingertip paths"
-        ],
-        "cons": [
-          "Uses a proprietary wireless USB receiver"
-        ]
-      }
-    ]
-  },
-  {
     "title": "The Best Mechanical Keyboards for Coding in 2024",
     "slug": "best-mechanical-keyboards-for-coding",
     "subtitle": "Boost your programming productivity and comfort with our expert picks for the ultimate developer keyboards.",
@@ -105,6 +69,42 @@
         "cons": [
           "Carrying case is slightly bulky compared to predecessors",
           "Immersive audio drains the battery faster during use"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Best Ergonomic Keyboards for Programmers",
+    "slug": "best-ergonomic-keyboards-for-programmers",
+    "subtitle": "Protect your wrists and boost your coding productivity with our top ergonomic keyboard picks.",
+    "intro_summary": "As a programmer, spending hours upon hours writing code can take a serious toll on your hands, wrists, and shoulders. Repetitive strain injuries (RSI) are a very real hazard in our profession, making the gear you use every single day a crucial investment in your long-term health. A standard, flat keyboard forces your wrists into unnatural angles, leading to fatigue and discomfort by the end of a long debugging session. Ergonomic keyboards are specifically engineered to keep your hands in a more neutral, relaxed posture. Whether you prefer a split design, a curved layout, or integrated cushioned palm rests, upgrading your workstation with the right ergonomic keyboard can drastically improve your typing endurance, speed, and overall comfort. We have tested and reviewed the top options available on the market today to help you find the perfect match for your coding workflow.",
+    "products": [
+      {
+        "name": "Logitech Ergo K860",
+        "badge": "Top Pick",
+        "affiliate_url": "https://www.amazon.it/dp/B083321A88?tag=ilnano-21",
+        "review": "The Logitech Ergo K860 is an absolute game-changer for developers who spend all day typing. Its curved, split keyframe design naturally reduces muscle strain on your wrists and lower forearms. What really sets this keyboard apart is the pillowed wrist rest, which offers three layers of comfort including high-density foam and a moisture-resistant surface. The typing experience is remarkably fluid and quiet, featuring scooped keys that perfectly fit your fingertips. Furthermore, it supports seamless multi-device pairing via Bluetooth or the USB receiver, allowing you to easily switch between your work laptop and personal desktop with a simple keystroke.",
+        "pros": [
+          "Curved split-keyframe design promotes natural hand posture",
+          "Exceptional three-layer cushioned wrist rest",
+          "Seamless multi-device connectivity via Bluetooth and USB"
+        ],
+        "cons": [
+          "Takes a few days to adjust if you are used to standard flat keyboards"
+        ]
+      },
+      {
+        "name": "Microsoft Sculpt Ergonomic Desktop",
+        "badge": "Best Value",
+        "affiliate_url": "https://www.amazon.it/dp/B0096L1L7U?tag=ilnano-21",
+        "review": "The Microsoft Sculpt Ergonomic Desktop is a legendary choice among programmers and office professionals alike. Designed with an advanced ergonomic split-key layout, it positions your wrists and forearms in a relaxed, natural position. The dome-shaped keyboard design works to reduce wrist pronation, while the separate number pad gives you maximum flexibility to set up your desk workspace however you like. It also includes a cushioned palm rest that provides substantial support, significantly minimizing wrist fatigue during marathon coding sessions. The natural arc follows the curve of your fingertips for a smooth and comfortable typing rhythm.",
+        "pros": [
+          "Advanced ergonomic split-key layout reduces wrist pronation",
+          "Separate number pad allows for flexible workspace arrangement",
+          "Includes a supportive cushioned palm rest for all-day comfort"
+        ],
+        "cons": [
+          "Requires batteries and uses a USB dongle rather than Bluetooth"
         ]
       }
     ]
